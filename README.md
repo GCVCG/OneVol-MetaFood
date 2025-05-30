@@ -56,7 +56,7 @@ Our method will be evaluated based on the **shape accuracy** and the **portion s
 
 ### Our Framework
 
-![OneVol](assets/OneVol.pdf)
+![OneVol](assets/OneVol.png)
 
 
 ## Installation:
